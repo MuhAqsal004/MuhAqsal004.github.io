@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d380c19d.css",
-    "main.js": "/static/js/main.52248949.js",
+    "main.css": "/static/css/main.4999692d.css",
+    "main.js": "/static/js/main.5882ca0f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/login page.png": "/static/media/login page.1467629c878ea794f288.png",
     "static/media/projek1.jpg": "/static/media/projek1.5ab4b2ce34de5cd4081b.jpg",
@@ -16,12 +16,13 @@
     "static/media/whatsapp.svg": "/static/media/whatsapp.80dac4af5a3d5e109da113f00aa44f19.svg",
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.a6a871ff05bd35787289676565fbf4f8.svg",
-    "main.d380c19d.css.map": "/static/css/main.d380c19d.css.map",
-    "main.52248949.js.map": "/static/js/main.52248949.js.map",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.4999692d.css.map": "/static/css/main.4999692d.css.map",
+    "main.5882ca0f.js.map": "/static/js/main.5882ca0f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d380c19d.css",
-    "static/js/main.52248949.js"
+    "static/css/main.4999692d.css",
+    "static/js/main.5882ca0f.js"
   ]
 }
