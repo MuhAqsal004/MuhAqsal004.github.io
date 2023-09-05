@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.dcaf2b10.css",
-    "main.js": "/static/js/main.42cd0f07.js",
+    "main.js": "/static/js/main.9623190c.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/birich1.jpg": "/static/media/birich1.dd3b9fa00de70026e29a.jpg",
     "static/media/dicoding1.jpg": "/static/media/dicoding1.e1c7b0611b8ad05e6830.jpg",
     "static/media/zonaEnglish4.jpg": "/static/media/zonaEnglish4.ae06ce782008a3b44550.jpg",
+    "static/media/notes1.jpg": "/static/media/notes1.94d999d4a879be6ae2a1.jpg",
     "static/media/dash1.jpg": "/static/media/dash1.9d07408297b5f18b382b.jpg",
     "static/media/zonaEnglish3.jpg": "/static/media/zonaEnglish3.fcee1244f1dd38a16ee2.jpg",
     "static/media/zonaEnglish2.jpg": "/static/media/zonaEnglish2.887340164e5474479d0e.jpg",
     "static/media/zonaEnglish1.jpg": "/static/media/zonaEnglish1.80d38b94d8df15e3b0be.jpg",
     "static/media/dicoding2.jpg": "/static/media/dicoding2.6ea608a7f8d64975afd5.jpg",
-    "static/media/work1.jpg": "/static/media/work1.73a7c385ae0e9a6e4042.jpg",
-    "static/media/work3.jpg": "/static/media/work3.8bb9c196ced39440fc15.jpg",
-    "static/media/work4.jpg": "/static/media/work4.c990ac3c9925bd246cc6.jpg",
     "static/media/dash3.jpg": "/static/media/dash3.d05629af91c1ce08000e.jpg",
     "static/media/birich4.jpg": "/static/media/birich4.9d04a818c3aaf2d74412.jpg",
-    "static/media/work2.jpg": "/static/media/work2.8b4c05a0a7ffe3f3fc50.jpg",
     "static/media/dash2.jpg": "/static/media/dash2.72d33f5b9ecfc4285df3.jpg",
+    "static/media/notes3.jpg": "/static/media/notes3.9f4a72c1700e0100adc1.jpg",
     "static/media/birich3.jpg": "/static/media/birich3.62cc686fdac05ae3af23.jpg",
+    "static/media/notes2.jpg": "/static/media/notes2.e73340ba171e83e68579.jpg",
     "static/media/aqsalini.jpg": "/static/media/aqsalini.7a7c20d6980335c32c82.jpg",
     "static/media/birich2.jpg": "/static/media/birich2.ef03247082b0dbecebfd.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -27,11 +26,11 @@
     "static/media/telegram.svg": "/static/media/telegram.a6a871ff05bd35787289676565fbf4f8.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.dcaf2b10.css.map": "/static/css/main.dcaf2b10.css.map",
-    "main.42cd0f07.js.map": "/static/js/main.42cd0f07.js.map",
+    "main.9623190c.js.map": "/static/js/main.9623190c.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcaf2b10.css",
-    "static/js/main.42cd0f07.js"
+    "static/js/main.9623190c.js"
   ]
 }
